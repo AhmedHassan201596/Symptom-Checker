@@ -1,0 +1,40 @@
+#checker{
+
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+.image
+{
+    padding-top: 50px;
+}
+#checker .header
+{
+    border-bottom: 5px solid blue;
+    padding-bottom: 10px;
+}
+
+#checker ul{
+    list-style-type: none;
+    padding: 0;
+    border: 1px solid rgba(0,0,0,0.1);
+}
+#checker ul li{
+    padding: 15px 5px;
+      border-bottom:1px solid rgba(0,0,0,0.1);
+    cursor: pointer;
+}
+
+
+#checker ul li:hover
+{
+    background-color: #b5d1dc;
+    color: white;
+}
+
+#checker .symp
+{
+    display: none;
+}
